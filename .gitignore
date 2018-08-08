@@ -63,3 +63,8 @@ typings/
 ### PhpStorm ###
 # .idea folder
 /.idea
+
+### VisualStudioCode ###
+
+# .vscode folder
+/.vscode/
