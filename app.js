@@ -9,3 +9,5 @@ app.get('/', (req, res) => {
 })
 
 server.listen(process.env.PORT || 2000)
+
+console.log('server is running')
